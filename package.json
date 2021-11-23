@@ -15,7 +15,5 @@
     "url": "https://github.com/saizazur1/GithubAction/issues"
   },
   "homepage": "https://github.com/saizazur1/GithubAction#readme",
-  "devDependencies": {
-    "standard-version": "^9.3.2"
-  }
+  "devDependencies": {}
 }
