@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/saizazur1/GithubAction/issues"
   },
-  "homepage": "https://github.com/saizazur1/GithubAction#readme"
+  "homepage": "https://github.com/saizazur1/GithubAction#readme",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
 }
