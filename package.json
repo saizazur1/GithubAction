@@ -1,6 +1,6 @@
 {
   "name": "GithubAction",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,9 @@
     "start": "node index.js",
     "release": "standard-version"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/saizazur1/GithubAction.git"
-  },
+  "repository": "git+https://github.com/saizazur1/GithubAction.git",
   "keywords": [],
-  "author": "",
+  "author": "saizazur1 <saizazur@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/saizazur1/GithubAction/issues"
